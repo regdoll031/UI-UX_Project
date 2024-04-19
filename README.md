@@ -211,7 +211,7 @@ function slideImage() {
 ~~~
 
 
-# 결과물
+# 결과
 ## JavaScript, jQeury 사용
 - Header slide에 번호를 부여해 슬라이드 마지막 번째에서 넘어갈 시 처음 슬라이드로 넘어오게 구현하였다.
 - 8개의 section에 각각의 모달창을 구현하여 팝업창이 띄워지게 구현하였다.
